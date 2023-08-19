@@ -6,7 +6,7 @@ Utility to find and extract images with faces similar to a target face from a gi
 
 1. Clone this repository:
 ```
-git clone https://github.com/[your_username]/FaceSimilarityFinder.git
+git clone https://github.com/AarushSah/FaceSimilarityFinder.git
 ```
 
 2. Open the Jupyter Notebook (`FaceSimilarityFinder.ipynb`) in Google Colab or a local Jupyter environment.
